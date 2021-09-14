@@ -1,0 +1,24 @@
+.test3{
+  font-family: Arial;
+  font-size: 20px;
+}
+.test2{
+  font-family: Arial;
+  font-size: 20px;
+}
+.test1{
+  font-family: Arial;
+  font-size: 20px;
+}
+div#content{
+  text-shadow: 2px 2px #808080;
+  box-shadow: 5px 10px;
+  filter: grayscale(20%);
+  border-radius: 25px;
+  padding: 15px;
+  width: 20px
+  height: 35px;
+  background-image: linear-gradient(white, gold);
+  object-fit: cover;
+  transform: scale3d(10);
+}
