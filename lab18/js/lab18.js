@@ -1,5 +1,5 @@
 /*
   * Author: Joe Fulton <jfulton@csumb.edu>
-  * Created: 27 September
+  * Created: 8 November
   * Liscense: Public Domain
 */
